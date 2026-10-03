@@ -211,4 +211,4 @@ Flipbook Printer is fully free for non-commercial use, offering all features and
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-03 09:32:21 UTC
+**Last updated:** 2026-10-03 14:28:28 UTC
